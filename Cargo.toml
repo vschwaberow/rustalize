@@ -1,0 +1,13 @@
+[package]
+name = "rustalize"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Volker Schwaberow <volker@schwaberow.de>"]
+
+[examples]
+simple_trait = "examples/simple_trait.rs"
+more_trait = "examples/more_trait.rs"
+complex_enum = "examples/complex_enum.rs"
+
+[dependencies]
