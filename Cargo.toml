@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 authors = ["Volker Schwaberow <volker@schwaberow.de>"]
+description = "Rustalizer is a powerful tool designed to help developers analyze complex Rust code structures. It provides a simple Abstract Syntax Tree (AST) parser that can break down Rust traits, structs, and enums into a more manageable and visually comprehensible format."
 
 [examples]
 simple_trait = "examples/simple_trait.rs"
